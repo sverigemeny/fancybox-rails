@@ -1,13 +1,12 @@
 fancybox-rails
 ==============
 
-[![Build Status](http://travis-ci.org/hecticjeff/fancybox-rails.png)](http://travis-ci.org/hecticjeff/fancybox-rails)
-
-Use [fancybox](http://www.fancyapps.com/fancybox/) with rails 3.1 asset pipeline.
+Use [fancybox](http://www.fancyapps.com/fancybox/) with rails 3.2 asset pipeline.
+Fancybox v. 2.1.3 updated
 
 ## Installation
 
-This gem vendors jquery fancybox 2 for Rails 3.1 and greater. The files
+This gem vendors jquery fancybox 2.1.3 for Rails 3.2 and greater. The files
 will be added to the asset pipeline and available for you to use.
 
 First add the following lines to your applications `Gemfile`:
@@ -53,7 +52,7 @@ $(document).ready(function() {
 
 ## More information
 
-* [Contributors](https://github.com/hecticjeff/fancybox-rails/contributors)
+* [Contributors](https://github.com/almaron/fancybox-rails/contributors)
 * [DHH's RailsConf 2011 talk on the rails 3.1 asset pipeline](http://www.youtube.com/watch?v=cGdCI2HhfAU)
 
 Copyright (c) Chris Mytton
